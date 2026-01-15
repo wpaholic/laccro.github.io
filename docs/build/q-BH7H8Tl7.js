@@ -1,1 +1,0 @@
-import{_ as e}from"./q-BKZ00VYc.js";import{w as o,N as t}from"./q-CPbSDhbW.js";const l=o(t(()=>e(()=>import("./q-BpYn1-_E.js"),[]),"s_KHHgAg5OUHg")),r={title:"Welcome to L'Accro",meta:[{name:"description",content:"Fullset Acrylic, Refill, Manicure, pedicure, gel, and nail art. Easy online booking available."}]};export{l as default,r as head};
